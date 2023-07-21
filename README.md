@@ -1,2 +1,2 @@
-# SuperheroHunter
+# SuperheroHunter(Using javascript)
 New repo
